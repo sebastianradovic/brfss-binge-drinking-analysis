@@ -35,9 +35,9 @@ The BRFSS is the largest continuously conducted health survey in the world, coll
 ## Key Findings
 
 - Younger adults had the highest prevalence of binge drinking, with prevalence generally decreasing as age increased.
-- Males reported higher rates of binge drinking than females.
-- Binge drinking prevalence varied across education levels, although differences were less pronounced than those observed by age and sex.
-- Binge drinking prevalence also differed across income groups.
+- Males reported higher rates of binge drinking than females, almost double.
+- Binge drinking prevalence varied across education levels, as education increased, so did binge drinking.
+- Generally, binge drinking increased as income level increased.
 - Chi-square tests indicated statistically significant associations between binge drinking status and each demographic variable examined (age group, sex, education level, and income).
 
 ## Visualizations
