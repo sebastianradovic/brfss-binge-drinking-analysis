@@ -52,3 +52,21 @@ Which demographic factors are most strongly associated with binge drinking among
 ## Author
 
 Sebastian Radovic
+
+## Visualizations
+
+### Binge Drinking by Age Group
+
+![Age Group](Figures/age_binge_drinking.png)
+
+### Binge Drinking by Sex
+
+![Sex](Figures/sex_binge_drinking.png)
+
+### Binge Drinking by Education Level
+
+![Education](Figures/education_binge_drinking.png)
+
+### Binge Drinking by Income Level
+
+![Income](Figures/income_binge_drinking.png)
