@@ -32,10 +32,10 @@ Which demographic factors are most strongly associated with binge drinking among
 
 ## Key Findings
 
-- Younger adults reported the highest percentage of binge drinking.
-- Males reported binge drinking more frequently than females.
+- Younger adults reported the highest percentage of binge drinking, with a trend downward as age increased.
+- Males reported binge drinking more frequently than females, almost double.
 - Higher income groups reported higher percentages of binge drinking.
-- Education level showed relatively small differences in binge drinking prevalence.
+- Education level showed relatively small differences in binge drinking prevalence, as education increased, binge drinking decreased.
 - Chi-square tests indicated statistically significant associations between each demographic variable and binge drinking status.
 
 ## Repository Contents
