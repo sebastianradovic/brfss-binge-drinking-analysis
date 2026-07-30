@@ -246,7 +246,10 @@ ggplot(education_binge_summary, aes(x = Education,
     y = "Respondents Reporting Binge Drinking (%)") +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5),
-        legend.position = "none")
+  legend.position = "none",
+  axis.text.x = element_text(
+    angle = 45,
+    hjust = 1))
 
 ggsave(filename = "Figures/education_binge_drinking.png",
        width = 8,
