@@ -65,7 +65,7 @@ Sebastian Radovic
 
 ### Binge Drinking by Education Level
 
-![Education](Figures/education_binge_drinking.png)
+![Education](Figures/education_binge_drinking.png?version=2)
 
 ### Binge Drinking by Income Level
 
