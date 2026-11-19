@@ -62,7 +62,7 @@ The BRFSS is the largest continuously conducted health survey in the world, coll
 
 ## Repository Contents
 
-- `BRFSS_binge_drinking_analysis.R` – Complete analysis script
+- `scripts/BRFSS_binge_drinking_analysis.R` – Complete analysis script
 - `Figures/` – Figures generated during the analysis
 - `README.md` – Project documentation
 
@@ -78,7 +78,7 @@ The BRFSS is the largest continuously conducted health survey in the world, coll
 
 1. Download the 2023 BRFSS dataset from the CDC.
 2. Place `LLCP2023.XPT` in the project folder.
-3. Open `BRFSS_binge_drinking_analysis.R` in RStudio.
+3. Open `scripts/BRFSS_binge_drinking_analysis.R` in RStudio.
 4. Install any required packages if prompted.
 5. Run the script from beginning to end.
 
