@@ -46,19 +46,19 @@ The BRFSS is the largest continuously conducted health survey in the world, coll
 
 ### Binge Drinking by Age Group
 
-![Age Group](Figures/age_binge_drinking.png)
+![Age Group](figures/age_binge_drinking.png)
 
 ### Binge Drinking by Sex
 
-![Sex](Figures/sex_binge_drinking.png)
+![Sex](figures/sex_binge_drinking.png)
 
 ### Binge Drinking by Education Level
 
-![Education](Figures/education_binge_drinking.png?version=2)
+![Education](figures/education_binge_drinking.png?version=2)
 
 ### Binge Drinking by Income
 
-![Income](Figures/income_binge_drinking.png)
+![Income](figures/income_binge_drinking.png)
 
 ## Repository Contents
 
